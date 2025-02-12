@@ -1,0 +1,35 @@
+{
+  "name": "ton-alert",
+  "version": "1.0.0",
+  "description": "Professional TON network liquidity pool monitoring tool",
+  "main": "pairsWatcher.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node pairsWatcher.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "chalk": "^4.1.2",
+    "dotenv": "^16.4.1",
+    "figlet": "^1.7.0",
+    "gradient-string": "^1.2.0",
+    "node-telegram-bot-api": "^0.64.0",
+    "@ton/core": "^0.53.0",
+    "base64url": "^3.0.1",
+    "markdown-it": "^14.0.0"
+  },
+  "author": "NOXX",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/ton-alert"
+  },
+  "keywords": [
+    "ton",
+    "blockchain",
+    "liquidity",
+    "monitoring",
+    "defi",
+    "crypto"
+  ]
+}
