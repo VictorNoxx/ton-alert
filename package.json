@@ -19,10 +19,16 @@
     "markdown-it": "^14.0.0"
   },
   "author": "NOXX",
+  "contributors": [
+    {
+      "name": "Aʀtʋʀ Cʀɘțʋ",
+      "url": "https://github.com/artickc"
+    }
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/ton-alert"
+    "url": "https://github.com/VictorNoxx/ton-alert"
   },
   "keywords": [
     "ton",

@@ -141,6 +141,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions, issues, and feature requests are welcome! Feel free to check [issues page](../../issues).
 
+## 👥 Contributors
+
+- **NOXX** - *Initial work and maintenance* - [VictorNoxx](https://github.com/VictorNoxx)
+- **COLLABORATOR_NAME** - *Project assistance* - [artickc](https://github.com/artickc)
+
 ## ⭐️ Show your support
 
 Give a ⭐️ if this project helped you!
