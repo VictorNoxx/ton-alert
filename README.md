@@ -144,7 +144,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 ## 👥 Contributors
 
 - **NOXX** - *Initial work and maintenance* - [VictorNoxx](https://github.com/VictorNoxx)
-- **COLLABORATOR_NAME** - *Project assistance* - [artickc](https://github.com/artickc)
+- **Aʀtʋʀ Cʀɘțʋ** - *Project assistance* - [artickc](https://github.com/artickc)
 
 ## ⭐️ Show your support
 
